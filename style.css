@@ -1,0 +1,27 @@
+
+.clock {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.hours, .minutes, .seconds {
+  padding: 0.5rem;
+  background-color: black;
+  color: #fff;
+  border-radius: 0.5rem;
+}
+
+h1{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 2.5em;
+}
+
+div.contenedor {
+  padding: 20px;
+  margin: 10px auto;
+  border: 5px solid #119928;
+  border-radius: 20px;
+  width: 350px;
+}
